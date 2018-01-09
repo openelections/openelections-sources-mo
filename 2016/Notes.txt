@@ -1,0 +1,6 @@
+Notes/addendums to Precinct Data reporting info:
+
+Clinton County – numbers for the no votes on Constitutional Amendment 6 forced to match the certified vote totals.  Note from the county indicates that they did not make a correction to the official results that indicated one provisional vote and a correction to the originally reported no votes for Hardin precinct.  Total certified:  2899; actual no votes:  2901.
+
+
+Dunklin County – numbers for the yes and no votes on Constitutional Amendment 6 differ between the certified totals and the addition of the precinct counts.  The addition of military/federal absentee ballots that were manually added after the reports were printed were incorrectly reported.  Thirteen ballots were added.  On the absentee totals, 7 were added to the yes votes, 6 to the no votes.  When the numbers were manually added to the grand totals, 6 were added to the yes votes and 7 to the no votes.  Per contact with the county, the correct totals for Constitutional Amendment 4 are:  Yes votes 5309; no votes 4536.
